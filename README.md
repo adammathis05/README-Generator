@@ -14,6 +14,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![Video of Walkthrough](https://drive.google.com/file/d/1roMRvDJFZlR6d0GDSYuPZ1S1zcIU-qbp/view?usp=sharing)
 
+![Screenshot of README](https://github.com/adammathis05/README-Generator/blob/main/assets/README%20Generated%20by%20Application.png)
+
 
 ## Credits
 - Xpert Learning Assistant
