@@ -1,30 +1,31 @@
-# tite
-  
+# README Generator
+   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  desc
+  Description of Project
 
   ## Table of Contents
   - [Installation](#installation)
   - [Usage Information](#usage-information)
   - [Testing Instructions](#testing-instructions)
-  
+  - [License](#license)
   - [Contribution Guidelines](#contribution-guidelines)
   - [Questions](#questions)
 
   ## Installation
-  inst
+  Here are instructions
 
   ## Usage Information
-  use
+  Here is usage information
 
   ## Testing Instructions
-  test
+  Here are testing instructions
 
-  
+  ## License
+This project is licensed under the MIT license.
 
   ## Contribution Guidelines
-  guide
+  Contributors
 
   ## Questions
   If you have any questions, you can email me at adam.mathis05@gmail.com.
