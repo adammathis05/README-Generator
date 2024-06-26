@@ -12,7 +12,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![Video of Walkthrough](https://drive.google.com/file/d/1roMRvDJFZlR6d0GDSYuPZ1S1zcIU-qbp/view)
+![Video of Walkthrough](https://drive.google.com/file/d/1roMRvDJFZlR6d0GDSYuPZ1S1zcIU-qbp/view?usp=sharing)
 
 
 ## Credits
